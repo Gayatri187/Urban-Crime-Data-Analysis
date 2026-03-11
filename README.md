@@ -80,5 +80,23 @@ Possible extensions of this project include:
 ---
 
 
+## 📊 Data Visualizations
+
+### Top 10 Crime Types
+![Top Crime Types](Images/top_10_crime_types.png)
+
+### Crime Trend by Year
+![Crime by Year](Images/crimes_per_year.png)
+
+### Crime Distribution by Hour
+![Crime by Hour](Images/crime_distribution_by_hour.png)
+
+### Top Crime Districts
+![Top Districts](Images/top_10_districts_with_highcrime.png)
+
+### Crime Hotspot Mapping
+![Crime Heatmap](Images/crime_density_mapping.png)
+
+
 
 
