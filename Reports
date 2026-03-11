@@ -1,1 +1,13 @@
+#project summary 
 
+This project analyzes urban crime patterns using Python, visualization, and geospatial mapping.
+
+Main analyses performed:
+- crime type distribution
+- yearly crime trends
+- monthly crime trends
+- district-level crime concentration
+- hour-of-day crime analysis
+- crime hotspot mapping
+
+The project was developed in Google Colab and documented on GitHub as a portfolio-ready data analytics project.
